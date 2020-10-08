@@ -10,8 +10,8 @@
 [<img align="left" alt="Akshit Ostwal | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Akshit Ostwal | Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />][googleplay]
 
-<br>
-<br>
+<br />
+
 ###  Hi I'm Akshit Ostwal
 <br />
 
