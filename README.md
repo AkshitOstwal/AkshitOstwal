@@ -52,8 +52,8 @@
 
 <br>
 
-![Akshit Ostwal's Top Langs](https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=akshitostwal&layout=compact) 
-![Akshit Ostwal's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=akshitostwal&show_icons=true&line_height=21)
+![Akshit's Top Langs](https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=akshitostwal&layout=compact) 
+![Akshit's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=akshitostwal&show_icons=true&line_height=21&include_all_commits=true)
 
 <br/>
 
