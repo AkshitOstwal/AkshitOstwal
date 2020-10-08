@@ -1,5 +1,14 @@
 ## Hi there, I'm Akshit 👋
 
+
+###  I'm from City of Hundred Islands 🏝️, India
+###  And apart form coding and programming, I love playing Guitar and making Videos 
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- ⚡ Fun fact: I love to binge watch
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="akshitostwal.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -12,11 +21,6 @@
 
 <br />
 
-###  I'm from City of Hundred Islands 🏝️, India
-###  And apart form coding and programming, I love playing Guitar and making Videos 
-<br/>
-
-<br />
 
 [website]: https://akshitostwal.github.io
 [twitter]: https://twitter.com/AkshitOstwal
