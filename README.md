@@ -10,7 +10,7 @@
 - 💻 Developed **[Edugo - Automatic Questions Generator](https://play.google.com/store/apps/details?id=com.akshitostwal.edugo)**
 - 🧘‍♂️ Meditate Daily
 - ⚡ Fun fact: I love to go on Trekking 
-<br/>
+
 
 ### Connect with me:
 
