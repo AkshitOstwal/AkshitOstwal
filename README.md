@@ -1,4 +1,4 @@
-### Hi there, I'm Akshit 👋
+## Hi there, I'm Akshit 👋
 
 ### Connect with me:
 
@@ -12,7 +12,10 @@
 
 <br />
 
-###  Hi I'm Akshit Ostwal
+###  I'm from City of Hundred Islands 🏝️, India
+###  And apart form coding and programming, I love playing Guitar and making Videos 
+<br/>
+
 <br />
 
 [website]: https://akshitostwal.github.io
