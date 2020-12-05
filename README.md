@@ -21,6 +21,7 @@
 [<img align="left" alt="Akshit Ostwal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Akshit Ostwal | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Akshit Ostwal | Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />][googleplay]
+[<img align="left" alt="Akshit Ostwal | Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
 
@@ -63,4 +64,5 @@
 [instagram]: https://instagram.com/AkshitOstwal
 [linkedin]: https://linkedin.com/in/AkshitOstwal
 [facebook]: https://facebook.com/AkshitOstwal
+[medium]: https://akshitostwal.medium.com
 [googleplay]: https://play.google.com/store/apps/developer?id=Akshit+Ostwal
