@@ -4,7 +4,7 @@
 ###  I'm from City of Hundred Islands 🏝️, India
 ###  And apart form coding and programming, I love playing Guitar and making Videos 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 🥇 Won more than 9 Hackathons 🏆
 - 👯 I’m looking to collaborate with other content creators
 - 💻 Developed **[Edugo - Automatic Questions Generator](https://play.google.com/store/apps/details?id=com.akshitostwal.edugo)**
