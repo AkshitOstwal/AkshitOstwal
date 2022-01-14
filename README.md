@@ -5,9 +5,9 @@
 ###  And apart form coding and programming, I love playing Guitar and making Videos 
 
 - 🌱 I’m currently learning everything 
-- 🥇 Won more than 9 Hackathons 🏆
+- 🥇 Won more than 10 Hackathons 🏆
 - 👯 I’m looking to collaborate with other content creators
-- 💻 Developed **[Edugo - Automatic Questions Generator](https://play.google.com/store/apps/details?id=com.akshitostwal.edugo)**
+- 💻 Developed **[Orange Wallet](https://onelink.to/orangewallet)**
 - 🧘‍♂️ Meditate Daily
 - ⚡ Fun fact: I love to go on Trekking 
 
