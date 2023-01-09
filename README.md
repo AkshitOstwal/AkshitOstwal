@@ -5,10 +5,10 @@
 ###  And apart form coding and programming, I love playing Guitar and making Videos 
 
 - 🌱 I’m currently learning 
-- 🥇 Won more than 12 Hackathons 🏆
+- 🥇 Won more than 15 Hackathons 🏆
 - 👯 I’m looking to collaborate with other content creators
 - 💻 Developing **[Orange Wallet](https://onelink.to/orangewallet)**
-- 🧘‍♂️ Meditate Daily
+- 🧘‍♂️ ~Meditate Daily~ (Not keeping up with this)
 - ⚡ Fun fact: I love to go on Trekking 
 
 
