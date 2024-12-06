@@ -2,7 +2,6 @@
 
 
 ###  I'm from City of Hundred Islands 🏝️, India
-###  And apart form coding and programming, I love playing Guitar and making Videos 
 
 - 🌱 I’m currently learning 
 - ⚡ Fun fact: I love to go on Trekking 
