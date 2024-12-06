@@ -16,7 +16,7 @@
 [<img align="left" alt="Akshit Ostwal | Play Store" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/640px-Medium_logo_Monogram.svg.png" />][medium]
 
 
-[twitter]: https://twitter.com/AkshitOstwal
+[twitter]: https://twitter.com/ostwalAk
 [youtube]: youtube.com/channel/UCQ6bgtJZj40wR8JJa-XmuIg
 [instagram]: https://instagram.com/AkshitOstwal
 [linkedin]: https://linkedin.com/in/AkshitOstwal
